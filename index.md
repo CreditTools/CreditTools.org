@@ -8,6 +8,6 @@ CreditTools.org is a not-for-profit website that aims to educate individuals on 
 {: .friendly}
 CreditTools.org does NOT provide financial or legal advice. All this content is for education purposes only.
 
-CreditTools.org is [open source]() on GitHub, so anyone can [propose changes](). Your help is much appreciated!
+CreditTools.org is [open source](https://github.com/CreditTools/CreditTools.org) on GitHub, so anyone can [propose changes](https://github.com/CreditTools/CreditTools.org). Your help is much appreciated!
 
 Get started by clicking on one of the items to the left of the screen (or in the navbar on mobile).
