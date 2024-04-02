@@ -27,6 +27,19 @@ callouts:
   friendly:
     color: blue
 
+# This is needed to format the cards pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "_cards"
+      type: "cards"
+    values:
+      layout: "default"
+
 heading_anchors: true
 search_enabled: true
 
