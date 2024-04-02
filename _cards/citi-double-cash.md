@@ -8,6 +8,7 @@ apr_variable: True
 approx_current_sub_value: $0
 issuing_bank: Citi
 url: https://www.citi.com/credit-cards/citi-double-cash-credit-card
+reward_base: 2%
 ---
 
 <h1>{{ page.card_name }}</h1>

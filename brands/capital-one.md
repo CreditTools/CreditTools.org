@@ -1,5 +1,5 @@
 ---
-title: "Wells Fargo"
+title: "Capital One"
 parent: Brands
 default_visible_columns:
   - card_name
@@ -52,15 +52,3 @@ $(document).ready( function () {
     {% endfor %}
   </tbody>
 </table>
-
-## Transfer Partners
-
-Points from the Wells Fargo Autograph cards can be transferred to the following programs at these ratios:
-
-| Program | Type | Transfer Radio |
-| --- | --- |
-| Aer Lingus | Airline | 1:1 |
-| Air France | Airline | 1:1 |
-| Avianca | Airline | 1:1 |
-| Iberia | Airline | 1:1 |
-| Choice Hotels | Hotel | 1:2 |

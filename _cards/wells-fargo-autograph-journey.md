@@ -1,16 +1,16 @@
 ---
-card_name: Wells Fargo Autograph
+card_name: Wells Fargo Autograph Journey
 card_brand: Wells Fargo
-card_summary: 3X back in a broad number of categories.
-annual_fee: $0
+card_summary: A good mid-range credit card.
+annual_fee: $95
 card_type: Visa
 intro_apr: 0%
-intro_offer: 20,000 bonus points when you spend $1,000 in the first 3 months. 0% APR for 12 months on purchases.
-ongoing_apr: 20.24%-29.99%
+intro_offer: 60,000 bonus points when you spend $4,000 in the first 3 months.
+ongoing_apr: 21.24%-29.99%
 apr_variable: true
-approx_current_sub_value: $200
+approx_current_sub_value: $600
 issuing_bank: Wells Fargo
-url: https://creditcards.wellsfargo.com/autograph-visa-credit-card/
+url: https://creditcards.wellsfargo.com/autograph-journey-visa-credit-card
 foreign_transaction_fee: 0%
 car_rental_cdw_type: Secondary
 point_or_cb_reward: point
@@ -26,19 +26,20 @@ reward_dining: 3X
 reward_drugstore: 1X
 reward_bills: 1X
 reward_travel: 3X
-travel_types: Includes airline, hotel, cruise line and travel agency purchases
-reward_air: 3X
-reward_hotel: 3X
+travel_types: Includes timeshare, vehicle/auto rental, cruise lines, travel agencies, discount travel sites, campgrounds. Flights and hotels have a higher 4X and 5X reward, respectively.
+reward_air: 4X
+reward_hotel: 5X
 reward_cruise: 3X
-reward_travel_portal: 3X
 reward_entertainment: 1X
-reward_streaming: 3X
+reward_streaming: 1X
 other_credits_max_value: $0
 ---
 
 <h1>{{ page.card_name }}</h1>
 
-The Wells Fargo Autograph is a compelling credit card.
+The Wells Fargo Autograph Journey is a compelling credit card. It is most similar to the [Wells Fargo Autograph](/_cards/wells-fargo-autograph), which has no annual fee, a lower reward rate for flights and hotels, and 3X in streaming.
+
+The Autograph Journey is a good "catch-all" card for many people. The flexibility of being able to book directly with any airline or hotel (no need for a travel portal) is valuable.
 
 ## Specs
 
