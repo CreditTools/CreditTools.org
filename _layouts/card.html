@@ -1,3 +1,27 @@
 ---
 layout: default
 ---
+
+<div class="card-content">
+  <h1>{{ page.card_name }}</h1>
+  <p>{{ page.card_summary }}</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Parameter</th>
+        <th>Value</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for field in page %}
+        {% unless field[0] == 'layout' %}
+          <tr>
+            <td>{{ field[0] | replace: '_', ' ' | capitalize }}</td>
+            <td>{{ field[1] }}</td>
+          </tr>
+        {% endunless %}
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
