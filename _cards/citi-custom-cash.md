@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Citi Custom Cash
 card_brand: Citi
 card_summary: 5% back in your top of pre-selected categories, for up to $500 in purchases per month. Quite versatile.

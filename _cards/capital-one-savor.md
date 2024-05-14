@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Capital One Savor
 card_brand: Capital One
 card_summary: Best for massive dining and entertainment spenders.

@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Chase Sapphire Reserve
 card_brand: Chase
 card_summary: The CSR is best for frequent travelers willing to use a travel portal.

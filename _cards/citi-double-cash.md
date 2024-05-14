@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Citi Double Cash
 card_brand: Citi
 card_summary: Perhaps the best-known flat 2% back credit card. Easy with few perks.

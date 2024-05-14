@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Capital One SavorOne
 card_brand: Capital One
 card_summary: 3% back in a broad number of categories.

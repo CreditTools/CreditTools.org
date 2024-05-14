@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Wells Fargo Autograph Journey
 card_brand: Wells Fargo
 card_summary: A good mid-range credit card.

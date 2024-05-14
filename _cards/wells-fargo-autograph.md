@@ -1,4 +1,5 @@
 ---
+layout: card
 card_name: Wells Fargo Autograph
 card_brand: Wells Fargo
 card_summary: 3X back in a broad number of categories.
