@@ -55,7 +55,7 @@ defaults:
       path: "_cards"
       type: "cards"
     values:
-      layout: "default"
+      layout: "card"
 
 heading_anchors: true
 search_enabled: true
